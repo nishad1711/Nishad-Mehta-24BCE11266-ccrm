@@ -117,9 +117,6 @@ Place your images under screenshots/ with suggested filenames:
 - screenshots/03-program-running.png
 - screenshots/04-exports-backups-structure.png
 
-## Demo video (optional)
-Add a link here (YouTube/Drive):
-- Demo: <YOUR_LINK_HERE>
 
 ## License
 Educational sample project.
